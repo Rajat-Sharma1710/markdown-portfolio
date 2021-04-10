@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love to solve problems on *Data Structures and Algorithms* .
+  I have already solves around 200+ problems on _**Leetcode** **Hackerrank** and **GeeksforGeeks**_
